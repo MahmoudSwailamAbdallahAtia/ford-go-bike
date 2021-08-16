@@ -1,0 +1,3 @@
+I'm most interested in figuring out what features are best for predicting which bike_id is more productive?<br>
+I'm most interested in figuring out what features are best for predicting which gender is more productive?<br>
+I'm most interested in figuring out what features are best for predicting which user_type is more productive?
